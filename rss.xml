@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SMBPower]]></title>
+        <description><![CDATA[SMBPower]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 Nov 2015 19:03:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First GRID Post]]></title>
+            <description><![CDATA[<article><h1>First GRID Post</h1><p>I'm glad that the beta is up and running!  Looking forward to getting started.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b41dff16-7251-45e9-9c08-028cff94b063.jpg"></article>]]></description>
+            <link>undefinedfirst-grid-post/index.html</link>
+            <guid isPermaLink="false">7490285b-26b9-4abb-aa80-5955ff1f2385</guid>
+            <pubDate>Sat, 21 Nov 2015 19:03:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
