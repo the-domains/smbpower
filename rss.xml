@@ -4,20 +4,20 @@
         <description><![CDATA[SMBPower]]></description>
         <link>https://thegrid.ai/smbpower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 19:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 19:04:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/smbpower/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[First GRID Post]]></title>
-            <description><![CDATA[<article><h1>First GRID Post</h1><p>I'm glad that the beta is up and running!  Looking forward to getting started.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b41dff16-7251-45e9-9c08-028cff94b063.jpg"></article>]]></description>
-            <link>https://thegrid.ai/smbpower/first-grid-post/index.html</link>
-            <guid isPermaLink="false">7490285b-26b9-4abb-aa80-5955ff1f2385</guid>
-            <pubDate>Sat, 21 Nov 2015 19:03:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
             <link>https://thegrid.ai/smbpower/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">947e1c7c-48ff-4662-bb88-f4ef9c36eb24</guid>
+            <pubDate>Sat, 21 Nov 2015 19:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First GRID Post]]></title>
+            <description><![CDATA[<article><h1>First GRID Post</h1><p>I'm glad that the beta is up and running!  Looking forward to getting started.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b41dff16-7251-45e9-9c08-028cff94b063.jpg"></article>]]></description>
+            <link>https://thegrid.ai/smbpower/first-grid-post/index.html</link>
+            <guid isPermaLink="false">7490285b-26b9-4abb-aa80-5955ff1f2385</guid>
             <pubDate>Sat, 21 Nov 2015 19:03:21 GMT</pubDate>
         </item>
     </channel>
